@@ -4,7 +4,7 @@ This is a Cloud WiFi Hotspot Software for Guest WiFi
 Support  Mikrotik RouterOS - Hotspot & Ubiquiti Network - Guest Portal
 
 Solutions:
-Vouchers ,SMS(Cellphone Message),Member Account,Wechat via Wi-Fi
+Vouchers ,SMS(Cellphone Message),Member Account,Wechat via Wi-Fico
 
 Tutorial for Ubiquiti network:
 
@@ -24,7 +24,7 @@ Tutorial for Mikrotik RouterOS:
 	
 		https://docs.cloudshotspot.com/en/cloud-hotspot/create-a-site-with-ros-hotspot.html
 	
-	2.Configure Unifi Controller:
+	2.Configure ROS Hotspot:
 	
 		https://docs.cloudshotspot.com/en/mikrotik-routeros/hotspot-setup.html
 	
